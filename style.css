@@ -1,0 +1,195 @@
+@media only screen and(max-width:276px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .h2_class{
+        background:brown;
+        color: white;
+        display: block;
+        text-align: center;
+    }
+    .p_class{
+        color: black;
+        display: block;
+        text-align: center;
+    }
+    .input_class{
+        display: block;
+        margin: auto;
+        margin-top: 5px;
+    }
+    .button_class{
+        display: block;
+        margin: auto;
+        margin-top: 5px;
+    }
+    .p_class_2{
+        display: block;
+        text-align: center;
+        margin-top: 5px;
+        background-color: black;
+        color: white;
+    }
+}
+
+@media only screen and(max-width:272px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .h2_class{
+        background:brown;
+        color: white;
+        display: block;
+        text-align: center;
+    }
+    .p_class{
+        color: black;
+        display: block;
+        text-align: center;
+    }
+    .input_class{
+        display: block;
+        margin: auto;
+        margin-top: 5px;
+    }
+    .button_class{
+        display: block;
+        margin: auto;
+        margin-top: 5px;
+    }
+    .p_class_2{
+        display: block;
+        text-align: center;
+        margin-top: 5px;
+        background-color: black;
+        color: white;
+    }
+}
+
+@media only screen and(max-width:270px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .h2_class{
+        background:brown;
+        color: white;
+        display: block;
+        text-align: center;
+    }
+    .p_class{
+        color: black;
+        display: block;
+        text-align: center;
+        
+    }
+    .input_class{
+        display: block;
+        margin: auto;
+        margin-top: 5px;
+    }
+    .button_class{
+        display: block;
+        margin: auto;
+        margin-top: 5px;
+    }
+    .p_class_2{
+        display: block;
+        text-align: center;
+        margin-top: 5px;
+        background-color: black;
+        color: white;
+    }
+}
+
+@media only screen and(max-width:170px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .h2_class{
+        background:brown;
+        color: white;
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+    .p_class{
+        color: black;
+        display: block;
+        text-align: center;
+    }
+    .input_class{
+        display: block;
+        margin: auto;
+        margin-top: 5px;
+    }
+    .button_class{
+        display: block;
+        margin: auto;
+        margin-top: 5px;
+    }
+    .p_class_2{
+        display: block;
+        text-align: center;
+        margin-top: 5px;
+        background-color: black;
+        color: white;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.h2_class{
+    background:brown;
+    color: white;
+    display: block;
+    text-align: center;
+}
+.p_class{
+    color: black;
+    display: block;
+    text-align: center;
+}
+.input_class{
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+}
+.button_class{
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+}
+.p_class_2{
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+}
